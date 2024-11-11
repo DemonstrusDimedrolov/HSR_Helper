@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "899238607382",
+    "project_id": "hsr-helper-b9cd1",
+    "storage_bucket": "hsr-helper-b9cd1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899238607382:android:8e6e16ba8116d7e979d337",
+        "android_client_info": {
+          "package_name": "com.dimedrol.hsrhelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899238607382-o2de9pfqdhteubq9eh8m3u9gs4mu5itp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dimedrol.hsrhelper",
+            "certificate_hash": "d822db14bc91c738222343080b57b47ba11163cd"
+          }
+        },
+        {
+          "client_id": "899238607382-8f1snl85ltejaaag8vn33do4a24du21n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCzc8vLEYgaKmEC43M9Fz1u46CaRD6xTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899238607382-8f1snl85ltejaaag8vn33do4a24du21n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
